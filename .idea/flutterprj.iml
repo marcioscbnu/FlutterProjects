@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/menulogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/menulogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/menulogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/greenway/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/greenway/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/greenway/build" />
+      <excludeFolder url="file://$MODULE_DIR$/meuprojeto/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/meuprojeto/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/meuprojeto/build" />
+      <excludeFolder url="file://$MODULE_DIR$/exemplologin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/exemplologin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/exemplologin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/greenwayapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/greenwayapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/greenwayapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ecgapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ecgapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ecgapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calculoimc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calculoimc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calculoimc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chefaiapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chefaiapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chefaiapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/agroplanner/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/agroplanner/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/agroplanner/build" />
+      <excludeFolder url="file://$MODULE_DIR$/agenda/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/agenda/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/agenda/build" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ecg_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ecg_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ecg_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ecgmonitor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ecgmonitor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ecgmonitor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/meuflutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/meuflutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/meuflutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/aegisapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/aegisapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/aegisapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/lib/server/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/lib/server/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/lib/server/build" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/aegiscat_api/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/aegiscat_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatapp/aegiscat_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatweb/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatweb/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/aegiscatweb/build" />
+      <excludeFolder url="file://$MODULE_DIR$/loginapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/loginapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/loginapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01/meulogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01/meulogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01/meulogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/anatomiadeumapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/anatomiadeumapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/anatomiadeumapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/cadastroaluno/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/cadastroaluno/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/cadastroaluno/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/meulogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/meulogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/meulogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/navegacaotelas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/navegacaotelas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aula01_Modulo1/navegacaotelas/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
