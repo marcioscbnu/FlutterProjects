@@ -61,7 +61,7 @@ class _FormularioAlunoPageState extends State<FormularioAlunoPage> {
       final idade = _idadeController.text; // Idade é uma string, mas será tratada como int na vida real.
       final idadeInt = int.tryParse(idade);
       if (idadeInt != null && idadeInt < 18){
-        setState(() {
+           setState(() {
           _mensagemDeStatus = 'Idade deve ser maior que 18';
         });
       } else {
@@ -118,6 +118,7 @@ class _FormularioAlunoPageState extends State<FormularioAlunoPage> {
                   hintText: 'Ex: João da Silva',
                   border: OutlineInputBorder(),
                 ),
+
                 // 8. O VALIDATOR: Verifica se o campo está vazio
                 validator: (value) {
                   if (value == null || value.isEmpty) {

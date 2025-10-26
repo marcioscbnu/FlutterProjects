@@ -86,7 +86,7 @@ class _FormularioAlunoPageState extends State<FormularioAlunoPage> {
         _mostrarDialogoStatus(
             'Atenção: Idade Inconsistente',
             'O aluno tem apenas $idade anos. Este formulário requer alunos maiores de 18 anos. Por favor, verifique a informação.',
-            Colors.orange
+            Colors.redAccent
         );
         return; // Sai da função, não prossegue com o cadastro
       }
@@ -137,7 +137,6 @@ class _FormularioAlunoPageState extends State<FormularioAlunoPage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
-
               const Text(
                 'Preencha os dados do aluno. A idade deve ser superior a 18 anos para o cadastro.',
                 style: TextStyle(fontSize: 16, color: Colors.indigo),
@@ -151,7 +150,7 @@ class _FormularioAlunoPageState extends State<FormularioAlunoPage> {
                 controller: _nomeController,
                 decoration: const InputDecoration(
                   labelText: 'Nome Completo',
-                  prefixIcon: Icon(Icons.person),
+                  prefixIcon: Icon(Icons.access_alarms),
                   border: OutlineInputBorder(borderRadius: BorderRadius.all(Radius.circular(10))),
                 ),
                 validator: (value) {
