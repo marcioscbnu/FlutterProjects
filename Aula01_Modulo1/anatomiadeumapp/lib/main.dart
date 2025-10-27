@@ -1,27 +1,29 @@
 import 'package:flutter/material.dart';
+
 void main() {
   runApp(const MeuApp());
 }
+
 class MeuApp extends StatelessWidget {
   const MeuApp({super.key});
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: 'Estrutura Básica Flutter',
-        home: HomePage(),
+      debugShowCheckedModeBanner: false,
+      title: 'Estrutura Básica Flutter',
+      home: HomePage(),
     );
   }
 }
+
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
   @override
-
   _HomePageState createState() => _HomePageState();
 }
+
 class _HomePageState extends State<HomePage> {
-  int _indiceSelecionado = 0;
   final List<Widget> _opcoesDeTela = <Widget>[
     Column(
       mainAxisAlignment: MainAxisAlignment.center,
@@ -33,7 +35,9 @@ class _HomePageState extends State<HomePage> {
         ),
       ],
     ),
-    const Center(child: Text('Configurações da App', style: TextStyle(fontSize: 24))),
+    const Center(
+      child: Text('Configurações da App', style: TextStyle(fontSize: 24)),
+    ),
   ];
 
   void _onItemTapped(int index) {
@@ -41,18 +45,17 @@ class _HomePageState extends State<HomePage> {
       _indiceSelecionado = index;
     });
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-    title: const Text(
-      'Meu Primeiro App',
-      style: TextStyle(color: Colors.white),
-    ),
-    backgroundColor: Colors.red,
-    ),
-
-
+        title: const Text(
+          'Meu Primeiro App',
+          style: TextStyle(color: Colors.white),
+        ),
+        backgroundColor: Colors.red,
+      ),
     );
   }
 }
